@@ -1,4 +1,4 @@
-# Universal Commerce Protocol - TC Meeting Minutes
+# Universal Commerce Protocol - Meeting Minutes
 
 This repository serves as the official, transparent, and version-controlled record of the Universal Commerce Protocol (UCP) Technical Committee (TC) decisions and discussions.
 
