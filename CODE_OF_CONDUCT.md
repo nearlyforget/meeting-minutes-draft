@@ -90,7 +90,7 @@ an environment where participants feel welcome and safe.
 Reports should be directed to <ucp-coc-external@google.com>, the
 Project Steward(s) for UCP. It is the Project Steward’s duty to
 receive and address reported violations of the code of conduct. They will then
-work with a committee consisting of representatives from the Open Source
+work with a council consisting of representatives from the Open Source
 Programs Office and the Google Open Source Strategy team. If for any reason you
 are uncomfortable reaching out to the Project Steward, please email
 <opensource@google.com>.
